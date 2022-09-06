@@ -1,10 +1,10 @@
 {
   "alway": false,
   "title": "提示",
-  "intro":"该版本由 azwhikaru 提供，请勿滥用、滥改",
+  "intro":"该版本由 xingshaoya 提供，请勿滥用、滥改",
   "exit": false,
-  "show": true,
-  "f": true,
+  "show": false,
+  "f": false,
   "url": "",
   "time": 4,
   "v": 3
